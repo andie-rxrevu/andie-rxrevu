@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andie-rxrevu
+- 👋 Hi, I’m Andie
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python, Snowflake, DBT
 - 💞️ I’m looking to collaborate on ...
